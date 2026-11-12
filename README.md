@@ -11,12 +11,13 @@
 [![Idiomas](https://img.shields.io/badge/idiomas-ES%20%C2%B7%20EN-D9A441?style=for-the-badge)](#)
 
 <a href="https://lucasusamentiaga.github.io/descargar/"><b>Descargar para Android</b></a> ·
+<a href="https://github.com/lucasusamentiaga/LumbreAI/releases">Versiones</a> ·
 <a href="#hazte-tester">Hazte tester en Google Play</a> ·
 <a href="#english">English</a>
 
 <br><br>
 
-<img src="assets/cabecera.png" alt="LumbreAI" width="760">
+<img src="assets/demo.gif" alt="Recorrido por LumbreAI: Hoy, Nutrición, Cuidado, Rangos, Lumbre Press y la Tienda de la Forja" width="300">
 
 </div>
 
